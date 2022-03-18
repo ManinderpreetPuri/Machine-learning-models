@@ -24,7 +24,7 @@ b. Experiments and performances, with parameter setting;
 c. Discussion on the improvement / deterioration of the NN’s performance after changing the architecture and parameter setting;
 d. The best performance of the NNs;
 
-Prediction of median value of House in Boston using Regression modles:
+Prediction of median value of House in Boston using Regression models:
 
 In this project I developed 3 end to end regression models: SVM, Linear Regression and K-Nearest Neighbors. The models are developed to accurately predict median value 
 of Boston houses in any given suburb, where the suburbs are described based on their provided characteristics:
